@@ -1,3 +1,3 @@
 # AB_TEST
 
-In this project, I used A / B testing to measure the effects of a change on the website on the control and test group. Accordingly, I took action by looking at how the sales were affected.
+Facebook recently introduced a new bidding type, “average bidding”, as an alternative to its existing bidding type, called “maximum bidding”. One of our clients, bombabomba.com, has decided to test this new feature and wants to conduct an A/B test to understand if average bidding brings more conversions than maximum bidding.
