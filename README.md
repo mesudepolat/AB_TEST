@@ -9,3 +9,9 @@ In this A/B test, bombabomba.com randomly splits its audience into two equally s
 * H0 : There is no statistically significant difference between the Control group that was served “maximum bidding” campaign and Test group that was served “average bidding” campaign.
 
 * H1 : There is statistically significant difference between the Control group that was served “maximum bidding” campaign and Test group that was served “average bidding” campaign.
+
+
+*1.Checking Assumptions
+**1.1 Normal Distribution
+1.2 Homogeneity of Variance
+2.Implementing Hypothesis
