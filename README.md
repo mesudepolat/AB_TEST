@@ -6,8 +6,8 @@ In this A/B test, bombabomba.com randomly splits its audience into two equally s
 
 
 The A/B test has run for 1 month and bombabomba.com now expects you to analyze the results of this A/B test.
-Facebook Ad: An advertisement created by a business on Facebook that's served up to Facebook users.
-Impressions: The number of times an ad is displayed.
+* Facebook Ad: An advertisement created by a business on Facebook that's served up to Facebook users.
+* Impressions: The number of times an ad is displayed.
 Reach: The number of unique people who saw an ad.
 Website Clicks: The number of clicks on ad links directed to Advertiser’s website.
 Website Click Through Rate: Number of Website Clicks / Number of Impressions x 100
