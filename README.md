@@ -15,7 +15,7 @@ In this A/B test, bombabomba.com randomly splits its audience into two equally s
 * Action: Can be any conversion event, such as Search, View Content, Add to Cart and Purchase.
 * Conversion Rate: Number of Actions / Number of Website Clicks x 100
 
-
+-----------------------------------------------------------------------------------------------------------
 **The ultimate success metric for bombabomba.com is Number of Purchases.Therefore, we should focus on Purchase metrics for statistical testing.**
 * How would you define the hypothesis of this A/B test?
 * Can we conclude statistically significant results?
