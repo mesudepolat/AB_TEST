@@ -17,7 +17,7 @@ The A/B test has run for 1 month and bombabomba.com now expects you to analyze t
 
 
 The ultimate success metric for bombabomba.com is Number of Purchases.Therefore, we should focus on Purchase metrics for statistical testing.
-How would you define the hypothesis of this A/B test?
-Can we conclude statistically significant results?
-Which statistical test did you use, and why?
-Based on your answer to Question 2, what would be your recommendation to client?
+* How would you define the hypothesis of this A/B test?
+* Can we conclude statistically significant results?
+* Which statistical test did you use, and why?
+* Based on your answer to Question 2, what would be your recommendation to client?
